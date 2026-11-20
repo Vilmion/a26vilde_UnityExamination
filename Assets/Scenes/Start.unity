@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 195898128}
   - component: {fileID: 195898130}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Input Thing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -511,7 +511,7 @@ GameObject:
   - component: {fileID: 602848812}
   - component: {fileID: 602848811}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Loading Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

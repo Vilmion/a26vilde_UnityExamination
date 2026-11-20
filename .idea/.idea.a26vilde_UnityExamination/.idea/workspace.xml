@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c79dec6-0a9a-4c3c-8c91-bf411333785d" name="Changes" comment="" />
+    <list default="true" id="4c79dec6-0a9a-4c3c-8c91-bf411333785d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoadingScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoadingScreen.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioContainerPlayByMaterial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioContainerPlayByMaterial.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioFade.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioFade.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioSetMixerSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioSetMixerSnapshot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioSlider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/AudioSlider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Blabber.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Blabber.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/ContinuousMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/ContinuousMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/CustomizablePlatformerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/CustomizablePlatformerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Dialogue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Dialogue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Health.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Health.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/InstantiateOnEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/InstantiateOnEvent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/LimitedPlatformerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/LimitedPlatformerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Parallax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/Parallax.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/SceneChangeHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/SceneChangeHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UICounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UICounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventAfterTimer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventAfterTimer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventOnEnabled.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventOnEnabled.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventOnTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Workshop_Scripts/UnityEventOnTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +135,7 @@
       <workItem from="1795177270688" duration="14000" />
       <workItem from="1795177290421" duration="10000" />
       <workItem from="1795180831353" duration="2000" />
-      <workItem from="1795180846922" duration="6630000" />
+      <workItem from="1795180846922" duration="7357000" />
     </task>
     <servers />
   </component>
