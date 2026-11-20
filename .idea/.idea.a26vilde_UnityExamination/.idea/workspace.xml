@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c79dec6-0a9a-4c3c-8c91-bf411333785d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.a26vilde_UnityExamination/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.a26vilde_UnityExamination/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-    </list>
+    <list default="true" id="4c79dec6-0a9a-4c3c-8c91-bf411333785d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1795177270688" duration="14000" />
       <workItem from="1795177290421" duration="10000" />
       <workItem from="1795180831353" duration="2000" />
-      <workItem from="1795180846922" duration="6207000" />
+      <workItem from="1795180846922" duration="6630000" />
     </task>
     <servers />
   </component>
