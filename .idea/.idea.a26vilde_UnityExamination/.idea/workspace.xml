@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c79dec6-0a9a-4c3c-8c91-bf411333785d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.a26vilde_UnityExamination/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.a26vilde_UnityExamination/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Basket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LineMaker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
@@ -89,7 +94,7 @@
       <workItem from="1795177270688" duration="14000" />
       <workItem from="1795177290421" duration="10000" />
       <workItem from="1795180831353" duration="2000" />
-      <workItem from="1795180846922" duration="5265000" />
+      <workItem from="1795180846922" duration="6207000" />
     </task>
     <servers />
   </component>
