@@ -9,6 +9,7 @@ using UnityEngine.InputSystem;
 public class TopDownMovement : MonoBehaviour
 {
     public float maxSpeed = 7;
+    [SerializeField] public GameObject ballPrefab;
     
     public bool controlEnabled { get; set; } = true;    // You can edit this variable from Unity Events
     
@@ -50,5 +51,10 @@ public class TopDownMovement : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>().normalized;
         
+    }
+
+    public void OnJump(InputAction.CallbackContext action)
+    {
+        Instantiate(ballPrefab, transform.position, Quaternion.identity);
     }
 }
