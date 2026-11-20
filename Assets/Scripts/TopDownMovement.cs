@@ -55,6 +55,10 @@ public class TopDownMovement : MonoBehaviour
 
     public void OnJump(InputAction.CallbackContext action)
     {
-        Instantiate(ballPrefab, transform.position, Quaternion.identity);
+        if (action.started)
+        {
+            Instantiate(ballPrefab, transform.position, Quaternion.identity);
+        }
     }
 }
+
